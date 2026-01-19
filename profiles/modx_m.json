@@ -1,0 +1,13 @@
+{
+    "device_name": "Yamaha MODX M",
+    "msb_cc_num": 0,
+    "lsb_cc_num": 32,
+    "preset_mappings": {
+         "msb": 65,
+         "lsb": 39 
+    },
+    "user_mappings": {
+        "msb": 66,
+        "lsb": 4
+    }
+}
