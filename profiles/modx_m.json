@@ -3,11 +3,11 @@
     "msb_cc_num": 0,
     "lsb_cc_num": 32,
     "preset_mappings": {
-         "msb": 65,
-         "lsb": 39 
+         "preset_msb_max": 65,
+         "preset_lsb_max": 39 
     },
     "user_mappings": {
-        "msb": 66,
-        "lsb": 4
+        "user_msb_max": 66,
+        "user_lsb_max": 4
     }
 }

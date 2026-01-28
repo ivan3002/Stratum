@@ -10,7 +10,8 @@ requires-python = ">=3.12"
 dependencies = [
     "rtmidi (>=2.5.0,<3.0.0)",
     "sounddevice (>=0.5.3,<0.6.0)",
-    "python-rtmidi (>=1.5.8,<2.0.0)"
+    "python-rtmidi (>=1.5.8,<2.0.0)",
+    "keyboard (>=0.13.5,<0.14.0)"
 ]
 
 
