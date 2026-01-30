@@ -1,5 +1,6 @@
 ## 📖 Introduction
-This is an experimental project inspired by my own desire for a more abstract way to search for appropriate sounds and patches on my keyboard at short notice.
+This is an experimental project inspired by my own desire for a more abstract way to search for appropriate sounds and patches on my keyboard at short notice. 
+Think of it as a **powerful search engine for your synth sounds**
 
 The idea is to be able to use NLP (Natural Language Processing) to enter a prompt and return a list of appropriate sounds that fit that description and send the result via MIDI program change back to my device.
 
@@ -21,3 +22,4 @@ Although this is a small application, I believe the concept is quite profound, u
 * **🧠 Local & Private:** All audio analysis happens locally on your machine. No cloud uploads.
 
 ---
+
