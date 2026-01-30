@@ -15,11 +15,11 @@ Although this is a small application, I believe the concept is quite profound, u
 
 ---
 
-## ✨ Key Features
-* **🤖 AI Auto-Indexer:** Automatically sends MIDI Program Changes to your synth, records a short audio clip of every patch, and builds a sonic database.
-* **🔍 Semantic Search:** Search by "vibe" or "timbre" (e.g., *"Dark dystopian pad"*) rather than just patch names. Use **LAION-CLAP** audio embedding technology.
-* **🎹 Instant Recall:** Double-click a search result to send the Bank/Program Change message immediately to your hardware.
-* **🧠 Local & Private:** All audio analysis happens locally on your machine. No cloud uploads.
+## ✨ Planned Features
+* **🤖 AI Auto-Indexer:** Automatically sends MIDI Program Changes to your synth, records a short audio clip of every patch, and builds a database of programs and their associated semantics.
+* **🔍 Semantic Search:** Search by "vibe" or "timbre" (e.g., *"Dark dystopian pad"*) rather than just patch names. Potentially use **LAION-CLAP** audio embedding technology.
+* **🎹 Instant Recall:** Select a search result to send the Bank/Program Change message immediately to your hardware.
 
 ---
+
 
