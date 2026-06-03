@@ -1,4 +1,4 @@
-## 📖 Introduction
+##  Introduction
 This is an experimental project inspired by my own desire for a more abstract way to search for appropriate sounds and patches on my keyboard at short notice. 
 Think of it as a **powerful search engine for your synth sounds**
 
@@ -6,7 +6,7 @@ The idea is to be able to use NLP (Natural Language Processing) to enter a promp
 
 > **Example:** Enter the prompt *"Soft airy pluck"* $\rightarrow$ Return a list of MIDI banks/programs that best fit that description.
 
-## ⚡ Why though?
+## Why though?
 ...because it's a fun project.
 
 In all seriousness though, I have been in many situations where I have had **zero time to prepare** and needed to find more creative patches outside of just my regular "bread and butter" sounds.
@@ -15,10 +15,10 @@ Although this is a small application, I believe the concept is quite profound, u
 
 ---
 
-## ✨ Planned Features
-* **🤖 AI Auto-Indexer:** Automatically sends MIDI Program Changes to your synth, records a short audio clip of every patch, and builds a database of programs and their associated semantics.
-* **🔍 Semantic Search:** Search by "vibe" or "timbre" (e.g., *"Dark dystopian pad"*) rather than just patch names. Potentially use **LAION-CLAP** audio embedding technology.
-* **🎹 Instant Recall:** Select a search result to send the Bank/Program Change message immediately to your hardware.
+##  Planned Features
+* ** AI Auto-Indexer:** Automatically sends MIDI Program Changes to your synth, records a short audio clip of every patch, and builds a database of programs and their associated semantics.
+* ** Semantic Search:** Search by "vibe" or "timbre" (e.g., *"Dark dystopian pad"*) rather than just patch names. Potentially use **LAION-CLAP** audio embedding technology.
+* ** Instant Recall:** Select a search result to send the Bank/Program Change message immediately to your hardware.
 
 ---
 
